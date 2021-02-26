@@ -10,7 +10,7 @@
 
 /*COMMON*/
 .container{
-    width: 1170px;
+    max-width: 1170px;
     margin: 0 auto;
 }
 .container::after{
@@ -102,7 +102,7 @@
       margin-left: calc((100% / 12)*12);
     }  
   /*Hidden XS*/
-   .col-xs-hidden{
+   .xs-hidden{
      display: none;
    }
   }
@@ -183,7 +183,7 @@
       margin-left: calc((100% / 12)*12);
     }  
   /*Hidden MD*/
-   .col-md-hidden{
+   .md-hidden{
      display: none;
    }
   }
@@ -265,7 +265,7 @@
     margin-left: calc((100% / 12)*12);
   }  
 /*Hidden LG*/
- .col-lg-hidden{
+ .lg-hidden{
    display: none;
  }
 }

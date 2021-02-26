@@ -1,0 +1,25 @@
+/*Common*/
+.wrapper-nav{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px 0;
+}
+li{
+    list-style: none;
+}
+
+/*Nav Superiore*/
+.nav-superiore a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.nav-superiore li{
+    display: inline-block;
+    padding-left: 20px;
+}
+#lingue li{
+    border-right: 1px solid black;
+    padding-right: 5px;
+}
