@@ -56,3 +56,16 @@ li{
     font-size: 16px;
     margin-bottom: 20px;
 }
+
+/*MAIN*/
+/*Prodotti*/
+#prodotti{
+    padding: 50px 0;
+}
+.col_inner{
+    padding: 0 20px;
+}
+.col_contenuto{
+    text-align: center;
+    background-color: #fafafa;
+}
