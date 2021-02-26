@@ -1,19 +1,19 @@
 /*Common*/
 .wrapper-nav{
-    max-width: 900px;
     margin: 0 auto;
-    padding: 20px 0;
+    padding: 20px;
 }
 li{
     list-style: none;
 }
+img{
+    width: 100%;
+}
 
 /*Nav Superiore*/
-.nav-superiore a{
-    text-decoration: none;
-    color: black;
-    text-transform: uppercase;
-    font-size: 14px;
+
+.nav-superiore img{
+    width: 30%;
 }
 .nav-superiore li{
     display: inline-block;
@@ -22,4 +22,16 @@ li{
 #lingue li{
     border-right: 1px solid black;
     padding-right: 5px;
+}
+#lingue li:last-child{
+    border: none;
+}
+.nav-superiore a{
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    font-size: 10px;
+}
+#menu{
+    text-align: right;
 }
