@@ -69,3 +69,17 @@ li{
     text-align: center;
     background-color: #fafafa;
 }
+.col_contenuto img{
+    width: 100%;
+}
+.col_contenuto a{
+    text-decoration: none;
+    color: #1c22fe;
+}
+.col_contenuto h2{
+    padding-top: 50px;
+}
+.col_contenuto p{
+    margin: 20px 0;
+    font-size: 25px;
+}
