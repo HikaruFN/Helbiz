@@ -30,6 +30,9 @@ li{
 #menu{
     text-align: right;
 }
+.burger-menu{
+    line-height: 10px;
+}
 /*Jumbotron*/
 .jumbotron{
     background-image:url(../img/hero-bg.jpg);
